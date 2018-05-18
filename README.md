@@ -1,2 +1,2 @@
 # imageclassifier
-classifies the flower and returns the score
+Tensor Flow for poets is used to classify image and return a score
